@@ -9,16 +9,17 @@ function App() {
   return (
     <div className="App">
       <header>
-        <nav>
+        <div>GERENCIADOR DE TAREFAS</div>   
+      </header>
+      <nav>
           <ul>
-            <li>Home</li>
+            <li><a>Home</a></li>
             <li>Sobre</li>
             <li>Tarefas</li>
           </ul>
         </nav>
-      </header>
       <main>
-
+        Qualquer coisa
       </main>
       <footer>
         <p>Desenvolvido por: Rafael Florindo</p>
